@@ -18,7 +18,7 @@ responses = {
     "work_experience": "Опыт работы отсутствует",
     "contacts": [
         "Телефон: +7-925-731-03-44",
-        "Телеграмм: @ekolesn1kovv",
+        "Телеграм: @ekolesn1kov",
         '<a href="https://github.com/ekolesn1kov">GitHub</a>'
     ]
 }
